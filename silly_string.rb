@@ -1,7 +1,7 @@
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = "saikat
+your_favorite_word = "saikat"
 
 puts "My favorite word is #{your_favorite_word}"
 
